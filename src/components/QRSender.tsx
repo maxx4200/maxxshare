@@ -200,7 +200,7 @@ export function QRSender() {
               <Upload className="size-8 text-muted-foreground" />
               <p className="text-sm font-medium">Choose any file to send</p>
               <p className="text-xs text-muted-foreground max-w-xs">
-                Any size, any type. Sent peer-to-peer in chunks — quality
+                Any size, maxx kheriwal any type. Sent peer-to-peer in chunks — quality
                 stays bit-identical.
               </p>
             </>
